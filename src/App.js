@@ -40,7 +40,7 @@ function App() {
     return (
       <main>
         <div className="title">
-          <h2>GOAN JA BSDK</h2>
+          <h2>LOAD AGAIN</h2>
           <button className="btn" onClick={()=>fetchData()}>REFRESH</button>
         </div>
       </main>
